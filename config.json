@@ -1,7 +1,7 @@
 {
-  "server_domain": "www.easyseizing-premium-new.com",
+  "server_domain": "www.easyseizing-premium.com",
   "server_ip": "103.212.121.6",
   "isApiHttps": true,
   "forceToUseIP":false,
-  "version":4
+  "version":5
 }
