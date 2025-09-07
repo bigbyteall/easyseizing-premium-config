@@ -2,5 +2,5 @@
   "server_domain": "www.easyseizing-premium123456.com",
   "server_ip": "103.212.121.6",
   "isApiHttps": true,
-  "forceToUseIP":true
+  "forceToUseIP":false
 }
